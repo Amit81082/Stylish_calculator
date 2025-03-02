@@ -69,6 +69,11 @@ This project is **open-source** and available under the **MIT License**.
 ---
 **✨ Enjoy Using the Stylish Calculator! 🚀**
 
+## ⭐ Give Your Feedback!
+Loved this calculator? 🌟 Give it a **Star** on GitHub!  
+Found a bug or have suggestions? 📝 [Create an Issue](https://github.com/Amit81082/Stylish_calculator/issues)  
+
+
 
 
 
