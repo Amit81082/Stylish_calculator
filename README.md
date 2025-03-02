@@ -5,6 +5,12 @@ Welcome to **Stylish Calculator**, a modern and sleek web-based calculator with 
 visit My Stylish Calculator - https://amit81082.github.io/Stylish_calculator/
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/81f06f76-c5f1-4115-9bec-02e2c6adeade)
+![image](https://github.com/user-attachments/assets/22fed7a0-cbc5-4ab3-a827-f5d5fc435a34)
+![image](https://github.com/user-attachments/assets/5c26fd11-c012-4ea6-a941-b273d8b7ac30)
+
+
+
 
 
 ## 📌 Features
